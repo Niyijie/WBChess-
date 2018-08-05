@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animations</key>
+	<dict>
+		<key>change_wb</key>
+		<dict>
+			<key>delay</key>
+			<real>0.1</real>
+			<key>frames</key>
+			<array>
+				<string>res/css/wb1.png</string>
+				<string>res/css/wb2.png</string>
+				<string>res/css/wb3.png</string>
+				<string>res/css/wb4.png</string>
+				<string>res/css/wb5.png</string>
+			</array>
+		</dict>
+	</dict>
+</dict>
+</plist>
